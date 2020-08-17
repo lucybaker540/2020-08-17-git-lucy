@@ -13,4 +13,4 @@
 - `git diff`- describes differences between saved work and what has been committed
 - `git diff -- staged` - describes what is different between was has been added in staging area compared to what is committed
 - `git  commit -m`-- a way to commit something and add a message without going into nano, saves time
-
+- `git remote add origin`

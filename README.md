@@ -7,4 +7,6 @@
 - `git add`-- add a file in the que in preparation for commit to master branch
 - `git commit`-- 
 - `git config -- global core.editor "nano -w"
-
+- `git log` -- shows history
+- `git log -- online`-- shows you your 1 line version of history
+- `HEAD`: tells you where you are looking 

@@ -14,3 +14,4 @@
 - `git diff -- staged` - describes what is different between was has been added in staging area compared to what is committed
 - `git  commit -m`-- a way to commit something and add a message without going into nano, saves time
 
+- make changes to different parts of a file and it will be combined automatically
